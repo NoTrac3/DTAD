@@ -1,5 +1,7 @@
 DTAD - Discord Threat Actor Database: ID Blacklist
 
+Discord unfortunetly put a ban limit of 5.000. Imagine Limiting user safety intentionally.
+
 A comprehensive security intelligence database containing 1750+ identified malicious Discord accounts collected through direct infiltration operations against multiple threat groups. This includes actors from DPOS - Degeneracy Police OS, TNM - The New Militia, UU - Universal Union, 148 (a branch of 764 that collaborates with UTTP and was affiliated with DPOS), and now includes confirmed collaborations between 148 and TNM, along with various other threat alliances and networks.
 
 This database represents verified threat actors encountered during cyber defense operations and server protection activities. All data is collected through first-hand engagement with hostile groups and their infrastructure.
