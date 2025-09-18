@@ -1,6 +1,6 @@
 DTAD - Discord Threat Actor Database: ID Blacklist
 
-Discord unfortunetly put a ban limit of 5.000. Imagine Limiting user safety intentionally.
+```Discord unfortunetly put a ban limit of 5.000. Imagine Limiting user safety intentionally. Discord's 5,000 user block limit is a platform-imposed restriction that applies to all users, regardless of their subscription status (Nitro or otherwise) . This limit is part of Discord's broader system of "Account Caps" and is explicitly listed in their official documentation.``` https://support.discord.com/hc/en-us/articles/33694251638295-Discord-Account-Caps-Server-Caps-and-More
 
 A comprehensive security intelligence database containing 1750+ identified malicious Discord accounts collected through direct infiltration operations against multiple threat groups. This includes actors from DPOS - Degeneracy Police OS, TNM - The New Militia, UU - Universal Union, 148 (a branch of 764 that collaborates with UTTP and was affiliated with DPOS), and now includes confirmed collaborations between 148 and TNM, along with various other threat alliances and networks.
 
