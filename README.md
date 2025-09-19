@@ -7,7 +7,7 @@ A comprehensive security intelligence database containing 1750+ identified malic
 
 # Notable Entries and Context:
 
- **User ID             Username                Nickname/Title                          Significance & Affiliations**
+ >> **User ID             Username                Nickname/Title                          Significance & Affiliations**
 
 - 1397368655083475064 dictatort               DPOS Führer Tomas                      DPOS Supreme Leader - Central command figure
 - 1383757342004219988 avoxuttp                EMPEROR ECT                            UTTP High Command - Cross-group leadership
