@@ -1,0 +1,354 @@
+# COMPREHENSIVE CROSS-SERVER EXTREMIST NETWORK ANALYSIS
+# =======================================================
+
+## EXECUTIVE SUMMARY
+This document represents a forensic analysis of interconnected Discord-based extremist networks operating in 2024-2025. The data reveals a sophisticated, multi-layered ecosystem of overlapping groups specializing in:
+- Racist/Nazi ideology (AFC, Aryan Race networks)
+- Doxing/SWATting operations (148, TNM, Slaughter Gang)
+- Malware/DDoS infrastructure (Project 666, technical groups)
+- Grooming/recruitment pipelines (multiple servers)
+- Cross-platform coordination for real-world harassment
+
+The network employs operational security tactics including:
+- Account cycling and burner accounts
+- Steganographic communication methods
+- VPN/proxy obfuscation (Fluxion, exit nodes)
+- Bot networks for automation
+- Multi-server redundancy
+
+## NETWORK ARCHITECTURE
+
+### CORE GROUPS IDENTIFIED:
+1. **148 Network** (Primary: ¹⁴⁸ | εɴтry poιɴт)
+   - Intelligence/harassment operations
+   - "Chancellor" leadership structure
+   - Direct connections to SWATting infrastructure
+
+2. **TNM Militia Network** (╠𝚃𝙽𝙼╣ Militia Network)
+   - Multi-server hierarchical structure
+   - Military-style ranking system
+   - Specialized divisions (GCA, CTR, Based Department)
+
+3. **AFC/Aryan Networks** (Primary data dump)
+   - Racist/anti-Semitic ideology core
+   - Bot management infrastructure
+   - Member count: 332+ identified users
+
+4. **Slaughter Gang** 
+   - Criminal operations (doxing, SWATting)
+   - Extensive financial fraud elements
+   - Connection to real-world criminal activity
+
+5. **Project 666**
+   - Malware/DDoS technical hub
+   - Botnet management
+   - C2 infrastructure hosting
+
+6. **United Clans of Com**
+   - Cross-group coordination server
+   - Leadership meetings/planning
+   - Resource sharing between groups
+
+## CROSS-REFERENCED USER MAPPING
+## ===============================
+
+### TIER 1: NETWORK LEADERSHIP & COORDINATORS (4+ SERVER PRESENCE)
+
+ID: 1374081917606953090 / 1399840519655522304 / 1382775680881787021
+Username: 148raven. / 148raven._ / raven.fbi
+Nicknames: Chancellor Steve / 148raven / None
+Roles: 148 Chancellor, 148 Intelligence, Truth Lord, Migrant, Image perms
+Servers: 148, United Clans, TGC, TCC, multiple TNM servers
+Connections: Central intelligence figure across ALL major groups
+Notes: Primary network coordinator, intelligence sharing hub
+
+ID: 1405661027995095103 / 1392696207280963636
+Username: deba.toes / debator12.
+Nicknames: 𝐃𝐞𝐛𝐚𝐭𝐨𝐫𝟏𝟐ᴬⁿᵗⁱ⁻ᶜᵃʳˡ / AT RISK CHECK BIO
+Roles: Core Operative, Truth Lord, ╠𝚃𝙼╣Debator12ᴬⁿᵗⁱ⁻ᶜᵃʳˡ
+Servers: 148, United Clans, multiple TNM servers
+Connections: Communications lead, steganographic messaging specialist
+Notes: High-risk communications, CHECK BIO FOR LOW COM protocols
+
+ID: 1408131669478608896 / 1400543028455931988 / 1364715435441782946
+Username: valak.1488 / helel.777 / h8te.2
+Nicknames: Valak / Valak / Valak
+Roles: Multi-Group Operator, Valak network identity
+Servers: 148, United Clans, multiple TNM servers
+Connections: Valak network leadership, international operations
+Notes: Middle Eastern operator presence, international coordination
+
+ID: 1254192751495614518 / 1393037755931693268
+Username: ikea.dinningtable / the.ikea_dinningtable7tnm
+Nicknames: Ikea Dinning Table [check bio] / ╠𝚃𝙽𝙼╣✠ Ikea Dinning Table ✠
+Roles: TNM Leadership, Strategic operations
+Servers: United Clans, multiple TNM servers
+Connections: Logistics coordination, check bio messaging
+Notes: TNM operations lead, logistics specialist
+
+ID: 1383732660400160899
+Username: trollpoliceisontop
+Nicknames: [𝕭𝖆$𝖊𝖉] GANSON THE SAVIOR
+Roles: Based Department, Propaganda/psychological operations
+Servers: United Clans, multiple TNM servers
+Connections: Psychological operations, propaganda creation
+Notes: Based Department leadership, meme warfare specialist
+
+ID: 1394272806384173116
+Username: suspendedagainlmao
+Nicknames: ! 神【𝑻𝑮𝑩】
+Roles: TGB Affiliate
+Servers: 148, United Clans
+Connections: Asian threat group collaboration
+Notes: TGB (Asian threat group) liaison, international operations
+
+### TIER 2: OPERATIONAL CORE (3 SERVER PRESENCE)
+
+ID: 1225194824970408011
+Username: karmander_lol
+Nicknames: karmander
+Roles: Gaming Culture recruitment
+Servers: 148, United Clans, TNM servers
+Connections: Youth recruitment targeting
+Notes: Uses gaming culture for recruitment, young member grooming
+
+ID: 1353864253874110515
+Username: probablylashipie
+Nicknames: lashipie.
+Roles: French Affiliate
+Servers: 148, United Clans
+Connections: European operations
+Notes: French language operations, European coordination
+
+ID: 1116854003188371559
+Username: _ghostech_
+Nicknames: †𝑮𝑯𝑶𝑺𝑻†
+Roles: Ghost Clan, Special operations
+Servers: 148, United Clans
+Connections: Special operations unit
+Notes: Ghost Clan leadership, covert operations
+
+ID: 1393602305680478290
+Username: 0x148andrewkrown
+Nicknames: Moved to 0x14h
+Roles: Account Cycling
+Servers: 148, United Clans
+Connections: Active OpSec measures
+Notes: Account cycling specialist, operational security
+
+ID: 1402820750032769125
+Username: slither1.1.1
+Nicknames: order LIMITED
+Roles: Operational Status alert
+Servers: 148, United Clans
+Connections: Reduced activity alerts
+Notes: Status monitoring, activity coordination
+
+ID: 1403324701660414044
+Username: kckck0245
+Nicknames: order ⟪✠𝐓𝐂𝐅✠⟫
+Roles: TCF Division - Tactical combat force
+Servers: 148, United Clans
+Connections: Tactical operations
+Notes: TCF (Tactical Combat Force) leadership
+
+### TIER 3: INFRASTRUCTURE & TECHNICAL CORE
+
+ID: 1270081270705164359
+Username: pveservervm3
+Nicknames: Proxmox VE3 🔜 TAD & TFD
+Roles: Technical Infrastructure
+Servers: 148, AFC/related networks
+Connections: Hosting malicious tools
+Notes: Proxmox virtualization host, TAD/TFD malware infrastructure
+
+ID: 1210131609391595541
+Username: cloudzeek
+Nicknames: cloudzik
+Roles: Technical Operator
+Servers: 148, United Clans
+Connections: Cloud-based infrastructure
+Notes: Cloud infrastructure management, hosting solutions
+
+ID: 1402800653218349116
+Username: fluxion._
+Nicknames: Fluxion
+Roles: Network Security
+Servers: 148, United Clans
+Connections: VPN/Proxy expertise
+Notes: Fluxion VPN network, obfuscation services
+
+ID: 1398602529297924136
+Username: roach1480916
+Nicknames: roach148
+Roles: Automated Accounts
+Servers: 148, United Clans, TNM servers
+Connections: Bot network participation
+Notes: Botnet management, automated harassment
+
+### TIER 4: AFC/TNM CROSSOVER NETWORK
+
+ID: 1397240155814891697
+Username: independent_auttp_member
+Nicknames: ! ཌᖇᗩǤᗴད LR ᵀᴺᴹ
+Roles: UTTP-TNM Liaison
+Servers: United Clans, TNM servers
+Connections: Official cross-group collaboration
+Notes: UTTP/TNM bridge, inter-group coordination
+
+ID: 1383095252675727430
+Username: edr.gov
+Nicknames: ⧼ᴅʀᴀᴄᴏ⧽ ⁷⁵⁷・ 竜
+Roles: Government Impersonation
+Servers: 148, AFC networks
+Connections: False authority signaling
+Notes: Government impersonation for intimidation
+
+ID: 1406646240640499812
+Username: verda.daddy
+Nicknames: 〚𝐑𝐂𝐆〛{死} | Vҽɾԃα
+Roles: RCG Division - Special operations
+Servers: United Clans
+Connections: Special operations ("死" = death)
+Notes: RCG (likely "Racist Combat Group") leadership
+
+### TIER 5: SLAUGHTER GANG / CRIMINAL CROSSOVER
+
+[Note: Slaughter Gang shows minimal overlap with ideological groups, suggesting separate criminal enterprise with occasional collaboration]
+
+ID: 1248481309764878400
+Username: evilopsec
+Nicknames: None
+Roles: Operational security
+Servers: Slaughter Gang, Project 666
+Connections: Criminal operational security
+Notes: Cross-criminal group security specialist
+
+ID: 1329185495007101070
+Username: _convikt
+Nicknames: None
+Roles: Criminal operations
+Servers: Slaughter Gang, Project 666
+Connections: Multi-group criminal operations
+Notes: High-level criminal operator across groups
+
+## PATTERN ANALYSIS
+
+### ACCOUNT NAMING CONVENTIONS:
+1. **148-affiliated**: "148" prefix/suffix, raven references
+2. **TNM-affiliated**: ╠𝚃𝙽𝙼╣ prefix, military ranks
+3. **AFC-affiliated**: Racial slurs, "Naru" references, cookenberg
+4. **Technical groups**: Server/hosting references (pve, proxmox, cloud)
+5. **Criminal groups**: Slaughter, dox, SWAT references
+
+### COMMUNICATION PATTERNS:
+1. "CHECK BIO" - Steganographic messaging in profile bios
+2. "order LIMITED" - Operational status codes
+3. "Moved to @" - Account cycling notifications
+4. Multi-language use: Arabic, Chinese, Russian glyphs
+5. Egyptian hieroglyphs in TNM communications
+
+### HIERARCHICAL STRUCTURE:
+1. **Leadership**: Chancellors, Emperors, Führers
+2. **Command**: Generals, Captains, Commanders
+3. **Operations**: Soldiers, Operatives, Technicians
+4. **Support**: Migrants, Civilians, Bots
+5. **Specialized**: Based Department, GCA, CTR divisions
+
+## INFRASTRUCTURE MAPPING
+
+### TECHNICAL ASSETS:
+1. **Proxmox VE3** (1270081270705164359) - Primary virtualization
+2. **Fluxion network** (1402800653218349116) - VPN infrastructure
+3. **Cloud infrastructure** (1210131609391595541) - Cloud hosting
+4. **Bot networks**: roach148, multiple bot accounts
+5. **Communication channels**: Multiple Discord servers with backup systems
+
+### FINANCIAL INDICATORS:
+1. **Slaughter Gang**: Financial fraud operations
+2. **Crypto wallets**: Multiple references in Slaughter Gang
+3. **Monetized harassment**: Evidence of paid SWATting services
+4. **Resource sharing**: Cross-group financial support
+
+### REAL-WORLD THREAT INDICATORS:
+1. **SWATting infrastructure**: Direct evidence in 148/TNM
+2. **Doxing operations**: Extensive personal information trading
+3. **Malware development**: Project 666 technical capabilities
+4. **Recruitment pipelines**: Youth grooming across multiple servers
+5. **International coordination**: Middle Eastern, Asian, European operators
+
+## NETWORK CONNECTIONS MATRIX
+
+### PRIMARY CONNECTION HUBS:
+1. **148raven.** - Intelligence hub connecting ALL groups
+2. **United Clans of Com** - Physical coordination server
+3. **TNM Militia Network** - Operational command structure
+4. **AFC Leaders** - Ideological core with technical crossover
+
+### SECONDARY CONNECTIONS:
+1. **Project 666** -> **Slaughter Gang** (Technical -> Criminal)
+2. **TNM** -> **148** (Operations -> Intelligence)
+3. **AFC** -> **TNM** (Ideology -> Operations)
+4. **United Clans** -> **All groups** (Coordination -> Execution)
+
+## THREAT ASSESSMENT
+
+### IMMEDIATE THREATS:
+1. **Active SWATting campaigns** - 148/TNM infrastructure active
+2. **Mass doxing operations** - Personal information being traded
+3. **Youth recruitment** - Active grooming in gaming spaces
+4. **Malware distribution** - Project 666 active development
+
+### STRATEGIC THREATS:
+1. **International coordination** - Multi-national operations
+2. **Infrastructure development** - Growing technical capabilities
+3. **Ideological radicalization** - Systematic recruitment pipelines
+4. **Cross-platform expansion** - Beyond Discord to other platforms
+
+### EMERGING PATTERNS:
+1. **Professionalization** - Increasing operational security
+2. **Monetization** - Criminal revenue streams developing
+3. **Specialization** - Division of labor across groups
+4. **Resilience** - Multi-server redundancy architecture
+
+## RECOMMENDED MONITORING TARGETS
+
+### CRITICAL (IMMEDIATE ACTION):
+1. 148raven. (1374081917606953090) - Network coordinator
+2. deba.toes (1405661027995095103) - Communications lead
+3. pveservervm3 (1270081270705164359) - Infrastructure host
+
+### HIGH PRIORITY:
+1. valak.1488 (1408131669478608896) - International operations
+2. trollpoliceisontop (1383732660400160899) - Propaganda lead
+3. roach1480916 (1398602529297924136) - Botnet manager
+
+### MEDIUM PRIORITY:
+1. karmander_lol (1225194824970408011) - Youth recruiter
+2. fluxion._ (1402800653218349116) - Obfuscation services
+3. suspendedagainlmao (1394272806384173116) - International liaison
+
+## CONCLUSION
+
+This network represents a sophisticated, multi-layered extremist ecosystem with:
+- **Clear hierarchical structure** across multiple servers
+- **Specialized divisions** for different criminal/ideological functions
+- **Advanced operational security** including encryption and obfuscation
+- **International coordination** between disparate threat groups
+- **Growing technical capabilities** including malware development
+- **Systematic recruitment** targeting vulnerable populations
+
+The cross-server connections reveal not isolated groups, but an interconnected network sharing resources, intelligence, and personnel. This represents a significant escalation from previous Discord-based extremist activities, showing professionalization and long-term strategic planning.
+
+## DATA COMPLETENESS NOTE
+This analysis represents only visible, scraped data. Actual network size and capabilities are likely significantly larger, with:
+- Private/unscraped servers
+- Encrypted communications
+- Off-platform coordination
+- Additional technical infrastructure
+- International cells not yet identified
+
+The network shows evidence of active evolution, with new accounts and servers constantly being created as old ones are banned or compromised.
+
+END OF ANALYSIS
+===============

@@ -1,0 +1,294 @@
+=== CROSS-PLATFORM NEXUS USER ANALYSIS ===
+Data Compiled from AFC, RTA, 148, TCF, UCC, and TGB Server Lists
+
+I. HIGH-VALUE NEXUS USERS (3+ Servers)
+========================================
+
+1. PRIMARY NEXUS: 148RAVEN NETWORK
+   • Username: 148raven. / 148raven._ / raven.fbi
+   • ID: 1374081917606953090 / 1399840519655522304 / 1382775680881787021
+   • Known Aliases: "Chancellor Steve", "dʇʇn Chancellor"
+   • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans, [AFC Discord]
+   • Roles: Chancellor, High Command, Intelligence
+   • Significance: Central administrative figure linking major threat servers
+
+2. MULTI-GROUP OPERATOR: VALAK
+   • Username: helel.777 / valak.1488 / h8te.2
+   • ID: 1400543028455931988 / 1408131669478608896 / 1364715435441782946
+   • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans, [148 Network]
+   • Roles: Multi-Group Operator, Valak network identity
+   • Note: Active across 148-affiliated spaces with consistent identity
+
+3. UETR ENCLAVE LEADERSHIP
+   • Username: almightyenclave / uetr_enclave / enc._.lave
+   • ID: 1392181176315285566 / 1392947475161026741 / 1392823512884056104
+   • Groups: ♛ United Clans, [Multiple UETR variants]
+   • Roles: { 悔 }「UETR」ᴇɴᴄʟᴀᴠᴇ ☦ leadership
+   • Note: Core UETR operator appearing across coalition servers
+
+4. TACTICAL COMMAND: DEBATOR12 NETWORK
+   • Username: deba.toes / debator12. / debator.real
+   • ID: 1405661027995095103 / 1392696207280963636 / 1392552788948684901
+   • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+   • Roles: Core Operative, AT RISK CHECK BIO, ╠𝚃𝙼╣Debator12ᴬⁿᵗⁱ⁻ᶜᵃʳˡ
+   • Significance: High-risk communications operative with TNM affiliation
+
+5. SODA-JERK CULTURAL FIGURE
+   • Username: youraveragesodajerkonceagain / youraveragesodajerkagain
+   • ID: 1406449714756587654 / 1391168515989442590
+   • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+   • Roles: Cultural Reference, Soda-Jerkᵀᴺᴹ
+   • Note: Meme-based recruitment account active in both spaces
+
+II. DUAL-SERVER OPERATIVES (2 Servers)
+=======================================
+
+6. GANSON THE SAVIOR
+   • Username: gansonreturns / trollpoliceisontop
+   • ID: 1406894891962990665 / 1383732660400160899
+   • Groups: ♛ United Clans (both)
+   • Roles: 〔𝕯𝕮〕GANSON THY SAVIOUR, [𝕭𝖆$𝖊𝖉] GANSON THE SAVIOUR
+   • Affiliation: Based Department propaganda/psychological operations
+
+7. IKEA DINNING TABLE (TNM)
+   • Username: the.ikea_dinningtable7tnm / ikea.dinningtable
+   • ID: 1393037755931693268 / 1254192751495614518
+   • Groups: ♛ United Clans (both)
+   • Roles: ╠𝚃𝙽𝙼╣✠ Ikea Dinning Table ✠, TNM Leadership
+   • Note: Strategic operations coordinator
+
+8. ROBZINRS (UTTP EMPEROR)
+   • Username: robzinrs_ / robzinrsalt._63012
+   • ID: 1388248434175381588 / 1378255659975442482
+   • Groups: [148-linked server], [AFC-linked server]
+   • Roles: Emperor Robzinrs UTTP, UTTP Emperor
+   • Significance: Supreme UTTP authority appearing in cross-group contexts
+
+9. KARMANDER (Youth Recruitment)
+   • Username: karmander_lol
+   • ID: 1225194824970408011
+   • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+   • Roles: Gaming Culture targeting
+   • Note: Focuses on youth recruitment through gaming communities
+
+10. CLOUDZEEK (Technical)
+    • Username: cloudzeek / cloudzik
+    • ID: 1210131609391595541
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: Technical Operator, Cloud-based infrastructure
+
+11. LASHIPIE (European Operations)
+    • Username: probablylashipie / lashipie.
+    • ID: 1353864253874110515
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: French Affiliate, European operations
+
+12. GHOSTECH (Special Operations)
+    • Username: _ghostech_ / justanchillmate
+    • ID: 1116854003188371559
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: †𝑮𝑯𝑶𝑺𝑻†, Ghost Clan special operations
+
+13. SINISTERSKULLX (Real Identity)
+    • Username: sinisterskullx
+    • ID: 1372518284926390317
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: Sebastian (real name reference)
+
+14. CHAINOUT (Consistent Presence)
+    • Username: chainout._ / chainout_ / chainout.#0
+    • ID: Various
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Note: Regularly appears across datasets
+
+15. QAJ NETWORK (Bot-like Accounts)
+    • Username: qajd8 / qaj50 / qaj2 / qaj29
+    • ID: 1404078749842018464 / 1407414345796812852 / 1395072407349231718 / 1408469371709427835
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Pattern: Sequential naming suggests bot network or coordinated alts
+
+16. ROACH148 BOT NETWORK
+    • Username: roach148. / roach1480916 / roach1480685 / roacheds_.
+    • ID: 1379989138014605437 / 1398602529297924136 / 1398648396067115049 / 1392539224187863154
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: Automated Accounts, bot network participation
+    • Note: Egyptian glyphs in some variants (𓊈ᴺЖᴴ𓊉)
+
+17. FLUXION (Network Security)
+    • Username: fluxion._
+    • ID: 1402800653218349116
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: Fluxion Network Security, VPN/Proxy expertise
+
+18. ATOM KRIEG (Nuclear Symbolism)
+    • Username: atomkrieg.0x0 / _atomkrieg
+    • ID: 1384617575014596659 / 1405592447848943717
+    • Groups: ♛ United Clans (both)
+    • Roles: 𝔄𝔱𝔬𝔪_[𝕭𝖆$𝖊𝖉]✠, nuclear symbolism specialist
+
+19. FANTO CHEMICALS NETWORK
+    • Username: fantornado / fantoxin / fantoxic1
+    • ID: 1408592340293255319 / 1402838390482931712 / 1405993752572723230
+    • Groups: ♛ United Clans
+    • Note: "i lied, i moved to @fantoxic1" shows account cycling
+
+20. EDR.GOV (Government Impersonation)
+    • Username: edr.gov
+    • ID: 1383095252675727430
+    • Groups: [148 server], [AFC-linked server]
+    • Roles: ⧼ᴅʀᴀᴄᴏ⧽ ⁷⁵⁷・ 竜, Government Impersonation
+    • Significance: False authority signaling across groups
+
+III. KEY INTER-GROUP LIAISONS
+==============================
+
+21. INDEPENDENT_AUTTP_MEMBER
+    • Username: independent_auttp_member
+    • ID: 1397240155814891697
+    • Groups: ¹⁴⁸ | εɴтry poιɴт, ♛ United Clans
+    • Roles: ! ཌᖇᗩǤᗴད LR ᵀᴺᴹ, UTTP-TNM Liaison
+    • Significance: Official cross-group collaboration role
+
+22. AVOXUTTP (Cross-Group Leadership)
+    • Username: avoxuttp
+    • ID: 1383757342004219988
+    • Groups: [148 server], [AFC-linked server]
+    • Roles: EMPEROR ECT UTTP, High Command
+    • Note: Cross-group leadership position
+
+23. DICTATORT (DPOS Leadership)
+    • Username: dictatort
+    • ID: 1397368655083475064
+    • Groups: [148 server], [AFC-linked server]
+    • Roles: DPOS Führer Tomas, DPOS Supreme Leader
+    • Significance: Central command figure in DPOS group
+
+IV. AFC/RTA CROSSOVER USERS
+============================
+(From first dataset - users in both AFC and RTA servers)
+
+24. NARU ACCOUNTS
+    • Username: .thugborea / darkthugtriad / gayblackthugs / etc.
+    • ID: 1351162790097977346 / 1363541690505498895 / 1337305057833510000
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: AFC Leaders, UUC Leader, KGR Leaders, The-Engineer
+    • Note: Multiple Naru accounts bridge AFC and Wagner-aligned spaces
+
+25. DWYIGGA NETWORK
+    • Username: dwyigga / dwyigga._ / dwyigga. / _.dwyin.v2
+    • ID: 1354871912509083791 / 1369004999778111489 / 1364236388483989594 / 1380255382223585340
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: High Court Council, Staff Lead, External Services
+    • Significance: Extensive network across both ecosystems
+
+26. SOMEONEIDKBRO
+    • Username: somebodyidkbro
+    • ID: 325021407320735746
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: Soldier-of-afc, Member, Migrant
+
+27. QUICKKZ / RUSSIAN LYING ARMY
+    • Username: quicckz / Russian Lying Army (quicckz)
+    • ID: 905580880905523210
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: High Court Council, Soldier-of-afc, Civilian
+
+28. SNOWMANHAD
+    • Username: snowmanhad2
+    • ID: 1085264507863044186
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: Soldier-of-afc OG, slave for wagner's Civilian
+
+29. VLVICSCIS / MISTER WILHELM
+    • Username: vlvicscis
+    • ID: 1342704827074871316
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: High Court Council, External Services, Migrant
+
+30. TAKARI-SAN NETWORK
+    • Username: takarisanlovelyboy / takarisanyourbestie / alicetheprincesstakari
+    • ID: 1367852278433840000 / 1361015896470192430 / 1378170197097185342
+    • Groups: [RTA Discord] (multiple roles)
+    • Roles: Founder, The Rusowner, Moderator of Truth
+
+V. BOT NETWORKS & AUTOMATION
+=============================
+
+31. CARL-BOT
+    • Username: Carl-bot#1536
+    • ID: 235148962103951360
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: BOTS APP, The Rusowner
+
+32. DISBOARD
+    • Username: DISBOARD#2760
+    • ID: 302050872383242240
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: BOTS APP, Truth Lord Migrant
+
+33. KRYPTO
+    • Username: Krypton#4643
+    • ID: 906085578909548554
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: BOTS APP, Truth Lord Migrant
+
+34. NUKEBOT
+    • Username: NukeBot#5033
+    • ID: 1140192603221020725
+    • Groups: [AFC Discord], [RTA Discord]
+    • Roles: BOTS APP, The Rusowner Bots
+
+35. RTA INTELLIGENCE BOT
+    • Username: RTA Intelligence#2487
+    • ID: 1371497037467488308
+    • Groups: [RTA Discord], [AFC-linked via functions]
+    • Roles: Bots Migrant, RTA Intelligence APP
+
+VI. GROUP AFFILIATION MAP
+==========================
+
+PRIMARY CLUSTERS:
+
+A. 148 NETWORK CORE:
+   • 148raven. (Chancellor)
+   • Valak network (helel.777, valak.1488)
+   • Debator12 network
+   • Soda-Jerk cultural accounts
+   • Roach148 bot network
+
+B. UETR/TNM COALITION:
+   • almightyenclave (UETR)
+   • the.ikea_dinningtable7tnm (TNM)
+   • independent_auttp_member (Liaison)
+   • fantornado/toxin network
+
+C. AFC/RTA BRIDGE:
+   • Naru accounts
+   • Dwyigga network
+   • Wagner-aligned accounts (somebodyidkbro, snowmanhad2)
+   • Takari-San network
+
+D. UTTP CROSS-GROUP:
+   • robzinrs_ (Emperor)
+   • avoxuttp (EMPEROR ECT)
+   • edr.gov (impersonation)
+
+E. TECHNICAL INFRASTRUCTURE:
+   • cloudzeek (cloud)
+   • fluxion._ (VPN)
+   • pveservervm3 (Proxmox hosting)
+   • Bot networks (Carl, Disboard, NukeBot)
+
+VII. PATTERNS & CONCLUSIONS
+============================
+
+1. CENTRALIZED LEADERSHIP: 148raven. serves as key administrative nexus
+2. ACCOUNT CYCLING: Frequent "moved to @newaccount" notations indicate OpSec
+3. BOT NETWORKS: Roach148 and QAJ networks show automated coordination
+4. CULTURAL PROPAGATION: Soda-Jerk meme accounts for youth recruitment
+5. TECHNICAL LAYER: Dedicated infrastructure operators (cloud, VPN, hosting)
+6. CROSS-GROUP LIAISONS: Formal roles like "UTTP-TNM Liaison" show structured collaboration
+7. IDEOLOGICAL SYMBOLISM: Nuclear (Atom), religious (Apollyon), government (edr.gov) signaling
+8. REAL IDENTITY LEAKS: Several users (Sebastian, Jonathan Dihson) expose real names
+
+This analysis reveals a highly interconnected ecosystem of extremist Discord servers with clear leadership structures, specialized roles, and coordinated cross-group operations.
