@@ -1,0 +1,195 @@
+WINTERGATE INTELLIGENCE AGENCY - CYBER DEFENSE MOVEMENT
+OFFICIAL DATA CROSS-REFERENCE DOCUMENT
+DOCUMENT ID: WGA-CINT-2025-12-08-NETWORK-MAPPING
+DATE: 08 DECEMBER 2025
+
+SUBJECT: CONSOLIDATED NETWORK ANALYSIS & CROSS-REFERENCE OF PRIMARY THREAT GROUPS (AFC, RTA, DPOS, RAGESEC, UETR ENCLAVE, UU UNIVERSAL UNION)
+
+1. EXECUTIVE SUMMARY
+This document consolidates and analyzes provided raw membership data from multiple Discord servers associated with the primary identified threat networks. The data reveals a dense web of mutual membership, cross-group collaboration, and shared leadership, confirming that these groups are not isolated entities but interconnected nodes of a larger hybrid threat ecosystem. The patterns match the evolutionary model from the 764 network, demonstrating a mutated but persistent structure focused on harassment, ideological radicalization, and coordinated attacks against counter-threat personnel.
+
+2. PRIMARY NETWORKS IDENTIFIED & ANALYZED
+- AFC (Aryan Forces Clan): Core group with hierarchical leadership (AFC Leaders, High Court Council). Shows direct ties to DPOS and UETR Enclave members.
+- RTA (Retarded Totally Ass / Return Of Mister Wagner): Wagner-centric network. Serves as a bridge between AFC personalities and other threat spaces.
+- DPOS (Dictator POS / DPOS Führer Tomas): High-command cell with direct leadership links to UTTP remnants and cross-membership with TNM/148 structures.
+- RAGESEC (Rage Security / ཌᖇᗩǤᗴད): Tactical operations cell. Members are found within DPOS, UU, and Enclave servers.
+- UETR ENCLAVE (悔「UETR」ᴇɴᴄʟᴀᴠᴇ): Special operations unit. Shows significant overlap with TNM high command and acts as a nexus for multi-group collaboration.
+- UU (Universal Union): Command structure with ties to UTTP leadership and cross-membership with DPOS and Enclave figures.
+
+3. KEY FINDINGS: CROSS-REFERENCED HIGH-PROFILE OPERATORS
+Analysis of User IDs and Usernames reveals individuals holding positions in multiple groups, indicating a coordinated leadership and operational layer.
+
+3.1. CORE LEADERSHIP NEXUS
+- USER: `1364577455049801740`
+  KNOWN ALIASES: Naru Allah Officiel, hyperboreanthug, .thugborea, gayblackthugs, jewishpirates.
+  ROLES: AFC Leaders, UUC Leader, KGR Leaders, BOTS High Court Council, The-Engineer, Commander.
+  CROSS-GROUP PRESENCE: Central AFC figure. Also present in RTA server as "Naru Allah Officiel Soon..." (Civilian/Migrant). This individual is a linchpin connecting AFC's ideological core to broader threat spaces.
+- USER: `1397368655083475064`
+  KNOWN ALIASES: dictatort, DPOS Führer Tomas.
+  ROLES: DPOS Supreme Leader - Central command figure.
+  CROSS-GROUP PRESENCE: DPOS leader. Found in provided data under "Exported Users from ¹⁴⁸ | εɴтry poιɴт". Confirms DPOS integration with the 148/TNM ecosystem.
+- USER: `1383757342004219988`
+  KNOWN ALIASES: avoxuttp.
+  ROLES: EMPEROR ECT UTTP High Command.
+  CROSS-GROUP PRESENCE: Cross-group leadership figure linking UTTP legacy to current high command structures across multiple groups.
+- USER: `1393037755931693268`
+  KNOWN ALIASES: the.ikea_dinningtable7tnm.
+  ROLES: ╠𝚃𝙽𝙼╣✠ Ikea Dinning Table ✠, TNM Leadership.
+  CROSS-GROUP PRESENCE: TNM command figure. Present in "United Clans of Com" server, demonstrating TNM's role as a collaborative platform for RCG, GCA, and other units.
+- USER: `1399840519655522304` & `1374081917606953090`
+  KNOWN ALIASES: 148raven._, 148raven.
+  ROLES: 148 Network Chancellor, dʇʇn Chancellor Steve, 148 High Command.
+  CROSS-GROUP PRESENCE: Key liaison figures present across 148, TNM, and "United Clans of Com" servers. Their presence signifies administrative and intelligence continuity between old 148corps and new coalitions.
+
+3.2. OPERATIONAL CROSS-MEMBERSHIP (MULTI-GROUP SOLDIERS/COMMANDERS)
+- USER: `1352337755686043730`
+  KNOWN ALIASES: Mister Cookenberg, burlaaster.
+  ROLES: AFC Leaders, The-Engineer Member (AFC). Soldat of Truth, Civilian (RTA).
+  CROSS-GROUP PRESENCE: AFC Leader also active in Wagner's RTA network as a basic member, indicating ideological/personal alliance between AFC and RTA.
+- USER: `1363541690505498895`
+  KNOWN ALIASES: Naru - [AFC] // Cookenberg, darkthugtriad.
+  ROLES: AFC Leaders, UUC Leader, KGR Leaders, k00dalt, BOTS High Court Council, The-Engineer, Commander, Soldier-of-afc, OG, AI, Content Maker, Niggrant Suspected (AFC). Migrant (RTA), noted "afc mafakas".
+  CROSS-GROUP PRESENCE: High-ranking AFC multi-role operator also present in RTA server. The "afc mafakas" note in RTA data confirms recognition of his AFC affiliation.
+- USER: `1360192006957043832`
+  KNOWN ALIASES: LastFever, lastfever69.
+  ROLES: Commander Soldier-of-afc (AFC). Moderator of Truth, Ally, Soldat of Truth, Civilian (RTA).
+  CROSS-GROUP PRESENCE: AFC Commander also holding a moderator role in the RTA (Wagner) structure. Demonstrates a formalized bridge role.
+- USER: `1342704827074871316`
+  KNOWN ALIASES: 𝑀𝐼𝑆𝑇𝐸𝑅 𝑊𝐼𝐿𝐻𝐸𝐿𝑀, vlvicscis.
+  ROLES: High Court Council Of The AFC, External Services, The-Engineer, Soldier-of-afc (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: AFC High Council member also present in RTA.
+- USER: `325021407320735746`
+  KNOWN ALIASES: Somebody, somebodyidkbro.
+  ROLES: Soldier-of-afc (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: Lower-level mutual member present in both AFC and RTA structures.
+- USER: `1351162790097977346`
+  KNOWN ALIASES: Naru, .thugborea.
+  ROLES: AFC Leaders, UUC Leader, KGR Leaders, BOTS High Court Council, The-Engineer, Commander, Soldier-of-afc, OG, Content Maker (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: Another "Naru" account (likely alt of 1364577455049801740) present in both AFC leadership and RTA migrant lists.
+- USER: `1354871912509083791`
+  KNOWN ALIASES: DWΨΦΠ, dwyigga.
+  ROLES: High Court Council Of The AFC, Staff Lead, External Services, The-Engineer, Soldier-of-afc (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: AFC High Council/Staff member also present in RTA.
+- USER: `949957078301167000`
+  KNOWN ALIASES: 𓆩𐔌QUO ♱ #2 TWOTIME FAN, quosita.
+  ROLES: The-Engineer, OG (AFC). Moderator of Truth, Ally, Soldat of Truth, Civilian (RTA).
+  CROSS-GROUP PRESENCE: AFC "Engineer" also holding a moderator role in RTA.
+- USER: `991049993739714600`
+  KNOWN ALIASES: SupremeCraft.
+  ROLES: Allies, The-Engineer (AFC). Ally, Soldat of Truth, Civilian (RTA).
+  CROSS-GROUP PRESENCE: AFC Ally also present as an Ally in RTA.
+- USER: `1336166052186554472`
+  KNOWN ALIASES: Ned K., commissioner0222.
+  ROLES: High Court Council Of The AFC, The-Engineer (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: AFC High Council member in RTA.
+- USER: `1379110756590555270`
+  KNOWN ALIASES: <RИՈ> 'AVO', montemelkonian.
+  ROLES: Soldier-of-afc (AFC). Ally, Soldat of Truth, Civilian (RTA).
+  CROSS-GROUP PRESENCE: AFC soldier also serving as an Ally in RTA.
+- USER: `1380255382223585340`
+  KNOWN ALIASES: ꖾ •『ᴅᴡʏɪɴ』• ꖾ, _.dwyin.v2.
+  ROLES: High Court Council Of The AFC, Allies, The-Engineer (AFC). Civilian, Migrant (RTA).
+  CROSS-GROUP PRESENCE: Another Dwyin account in AFC leadership, present in RTA.
+- USER: `1364236388483989594`
+  KNOWN ALIASES: ꖾ •『ᴅᴡʏɪɴ』• ꖾ, dwyigga.
+  ROLES: Allies (AFC). Migrant (RTA).
+  CROSS-GROUP PRESENCE: Dwyin alt in both groups.
+- USER: `1370843020554932346`
+  KNOWN ALIASES: ꖾ •『ᴅᴡʏɪɴ』• ꖾ, return_of_dwyigga.
+  ROLES: High Court Council Of The AFC, Allies, Staff Lead, External Services, Soldier-of-afc (AFC). Civilian (RTA).
+  CROSS-GROUP PRESENCE: Dwyin main account in AFC leadership, present in RTA.
+- USER: `1369004999778111489`
+  KNOWN ALIASES: D̶W̶Y̶I̶N̶, dwyigga._
+  ROLES: High Court Council Of The AFC, External Services, The-Engineer, Soldier-of-afc (AFC).
+  NOTE: Part of the "dwyigga" cluster, which is heavily embedded in AFC High Court Council and present in RTA. This indicates a specific sub-faction (Dwyin) operating across both groups.
+
+3.3. DPOS & UETR ENCLAVE NEXUS WITH TNM/148
+- USER: `1405661027995095103`
+  KNOWN ALIASES: deba.toes, 𝐃𝐞𝐛𝐚𝐭𝐨𝐫𝟏𝟐ᴬⁿᵗⁱ⁻ᶜᵃʳˡ.
+  CROSS-GROUP PRESENCE: Found in "148 | entry point", "United Clans of Com", and "TNM Militia Network" data. Labeled "Core Operative". This is a high-value operator moving between DPOS-affiliated spaces and the collaborative TNM/148 command server ("United Clans of Com").
+- USER: `1394272806384173116`
+  KNOWN ALIASES: suspendedagainlmao, ! 神【𝑻𝑮𝑩】.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged as "TGB Affiliate", indicating connections to Asian threat groups within the coalition.
+- USER: `1386066761576747021`
+  KNOWN ALIASES: 5th_account_already, ! بريڬد يڠ هيبت 神【𝑻𝑮𝑩】.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "Middle Eastern Operator", showing the international reach of the coalition.
+- USER: `1397240155814891697`
+  KNOWN ALIASES: independent_auttp_member, ! ཌᖇᗩǤᗴད LR ᵀᴺᴹ.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "UTTP-TNM Liaison". This is a critical find: an account explicitly identifying as both RAGESEC (ཌᖇᗩǤᗴད) and TNM, serving as an official liaison. Confirms the RAGESEC-TNM operational partnership.
+- USER: `1383732660400160899`
+  KNOWN ALIASES: trollpoliceisontop, [𝕭𝖆$𝖊𝖉] GANSON THE SAVIOR.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com" and "TNM Militia Network". A key propaganda/psychological operations figure ("Based Department") within the TNM structure.
+- USER: `1392181176315285566`
+  KNOWN ALIASES: almightyenclave, { 悔 } 「UETR」ᴇɴᴄʟᴀᴠᴇ ☦.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "UETR Enclave Leadership". This user is a central node for the Enclave within the broader coalition server.
+- USER: `1393088495098003537`
+  KNOWN ALIASES: omaddie, [@GCA] Maddie「慈」.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "GCA Division", indicating the presence of the "GCA" specialized unit within the coalition.
+- USER: `1392905472377622560`
+  KNOWN ALIASES: stuproseriale, [CTR] Capo.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com" and "TNM Militia Network". Tagged "CTR Division - Enforcement operations". This account is also present in the AFC dataset as an "Allies" member with roles like [CTR] Capo, showing a direct link between AFC's "Allies" and the CTR enforcement wing within the TNM/148 coalition.
+- USER: `1406894891962990665`
+  KNOWN ALIASES: gansonreturns, 〔𝕯𝕮〕GANSON THY SAVIOUR.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "DPOS Leadership - Spiritual/ideological figurehead". Confirms GANSON's role as a DPOS leader operating in the coalition space.
+- USER: `1388248434175381588`
+  KNOWN ALIASES: robzinrs_, Emperor Robzinrs UTTP.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point". Tagged "UTTP Emperor". Shows the continuity of UTTP high command (Robzinrs) within the current 148/DPOS ecosystem.
+- USER: `1392696207280963636`
+  KNOWN ALIASES: debator12., AT RISK CHECK BIO.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged "Core Operative - High-risk communications". A key operative.
+- USER: `1210131609391595541`
+  KNOWN ALIASES: cloudzeek, cloudzik.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged "Technical Operator - Cloud-based infrastructure".
+- USER: `1401389195662200943`
+  KNOWN ALIASES: qq.xan, order ᵏʳʸˢᵉᶜlimite rn.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point", "United Clans of Com", and "TNM Militia Network". Tagged "Krysec Affiliation", showing links to another threat group (Krysec).
+- USER: `1403324701660414044`
+  KNOWN ALIASES: kckck0245, order ⟪✠𝐓𝐂𝐅✠⟫.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "TCF Division - Tactical combat force".
+- USER: `1398602529297924136` & `1379989138014605437`
+  KNOWN ALIASES: roach1480916, roach148.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged "Automated Accounts - Bot network participation". The "roach148" cluster indicates a botting/automation capability shared across the coalition.
+- USER: `1391168515989442590` & `1406449714756587654`
+  KNOWN ALIASES: youraveragesodajerkagain, youraveragesodajerkonceagain, Soda-Jerk, Soda-Jerkᵀᴺᴹ.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged "Cultural Reference - Meme-based recruitment". A propaganda account active across multiple servers.
+- USER: `1400543028455931988` & `1408131669478608896`
+  KNOWN ALIASES: helel.777, valak.1488, Valak.
+  CROSS-GROUP PRESENCE: Present in "148 | entry point" and "United Clans of Com". Tagged "Multi-Group Operator - 148/TNM affiliate, Valak network identity". Represents the "Valak" operator within the coalition.
+- USER: `1406646240640499812`
+  KNOWN ALIASES: verda.daddy, 〚𝐑𝐂𝐆〛{死} | Vҽɾԃα.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "RCG Division - Special operations ("死" = death)". Part of the RCG unit within the coalition.
+- USER: `1395042378724937778`
+  KNOWN ALIASES: rez.lol, 〚𝐑𝐂𝐆〛༺𓆩𒅒//Rᴇᴢ𒄆𓆪༻.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "RCG Leadership - Command role".
+- USER: `1384617575014596659`
+  KNOWN ALIASES: atomkrieg.0x0, 𝔄𝔱𝔬𝔪_[𝕭𝖆$𝖊𝖉]✠⸉ཌƦⱯⱫƦད⸊™.
+  CROSS-GROUP PRESENCE: Present in "United Clans of Com". Tagged "Based Department - Nuclear symbolism specialist".
+
+4. PATTERN ANALYSIS & CONCLUSIONS
+4.1. STRUCTURAL PATTERNS:
+- Hierarchical Diffusion: Clear AFC hierarchy (Leaders > High Court > Engineers > Commanders > Soldiers) mirrors the structured command seen in RTA (Founder > Moderator of Truth > Soldat) and the TNM/148 coalition (High Command > Divisions > Operatives).
+- Role Transference: Individuals retain similar status across groups (e.g., AFC High Council members become RTA Migrants/Civilians; TNM leaders appear as UETR Enclave Leadership).
+- "Ally" System: The AFC's "Allies" role appears to be a formal category for members of partner groups like [CTR] Capo, providing a documented link to the CTR division within the TNM coalition.
+
+4.2. OPERATIONAL PATTERNS:
+- Shared Personnel: The same individuals conduct ideological posting in AFC, participate in Wagner's RTA community, and occupy command/operative roles in the TNM/148/DPOS/Enclave collaborative space.
+- Bot & Infrastructure Sharing: The presence of "roach148" bots and technical operators like "cloudzeek" across servers indicates shared utilities and infrastructure.
+- Liaison Roles: The existence of accounts like "independent_auttp_member" explicitly labeled "UTTP-TNM Liaison" proves formal, acknowledged cooperation between these groups.
+
+4.3. NETWORK ASSESSMENT:
+The provided data confirms the primary groups (AFC, RTA, DPOS, RAGESEC, UETR Enclave, UU) are not isolated. They are interconnected through:
+- Personal Alliances: The "Naru"/"Dwyin" cluster bridges AFC and RTA.
+- Formal Coalitions: The "United Clans of Com" server acts as a joint operations center for TNM, 148, DPOS, UETR Enclave, RCG, GCA, TGB, and other units.
+- Ideological Continuity: The persistent use of racist ("Niggrant"), antisemitic, and extremist iconography across all groups.
+- Tactical Continuity: The harassment methodologies (doxxing, swatting, blackmail) mirror the 764 model, now applied to adult targets.
+
+5. RECOMMENDATION FOR OPH/WINTERGATE OPERATIONS
+Targeting these groups requires a network approach. Disruption of one node (e.g., a Discord server) will see activity migrate to another due to the deep mutual membership. Priority targets should be:
+- The "United Clans of Com" server as a central coordinating hub.
+- High-profile nexus individuals (USER IDs 1364577455049801740, 1397368655083475064, 1405661027995095103, 1397240155814891697).
+- The technical and bot infrastructure (roach148, cloudzeek).
+
+The interconnected nature of this data validates the hypothesis of a single, evolving hybrid threat network with specialized divisions (AFC for ideology/recruitment, RTA for community, DPOS/Enclave/TNM for coordinated attacks).
+
+END OF DOCUMENT.
+WINTERGATE INTELLIGENCE AGENCY - CINT DIVISION
